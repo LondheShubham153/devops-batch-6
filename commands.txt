@@ -3,3 +3,7 @@
 git init
 git add
 git commit
+git restore
+git status
+
+
